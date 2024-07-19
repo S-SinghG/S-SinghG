@@ -1,5 +1,5 @@
 # 💫 About Me:
-🖥️ Student Of CS<br>👨‍🎓 Knowledgeful about C<br>📘 Learning C++<be>⌨️ Linux Compatible<br>🐦 Determined as woodpecker<br>💪 Ready to for new challenges
+🖥️ Student Of CS<br>👨‍🎓 Knowledgeful about C<br>📘 Learning C++<br>⌨️ Linux Compatible<br>🐦 Determined as woodpecker<br>💪 Ready to for new challenges
 
 
 ## 🌐 Socials:
